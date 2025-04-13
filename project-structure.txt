@@ -1,0 +1,19 @@
+src/
+├── assets/
+├── components/
+│   ├── common/
+│   ├── editor/
+│   ├── notes/
+│   ├── chat/
+│   └── auth/
+├── config/
+├── constants/
+├── contexts/
+├── hooks/
+├── layouts/
+├── pages/
+├── routes/
+├── services/
+├── styles/
+├── types/
+└── utils/
